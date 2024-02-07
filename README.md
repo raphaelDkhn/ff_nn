@@ -12,6 +12,11 @@ fatal runtime error: stack overflow
 zsh: abort      scarb build
 ```
 
+## Requirement
+Scarb version 2.4.0
+
+## NN
+
 Here is the Neural Network architecture: 
 ```python
 class SimpleNN(nn.Module):
